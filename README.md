@@ -3,7 +3,7 @@
 
 # darshan@alpha:~$
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Quantitative+Research;Systematic+Trading;Statistical+Modeling;Cybersecurity+%E2%80%94+Systems+as+a+Backup+Path" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Quantitative+Research;Systematic+Trading;Statistical+Modeling;Cybersecurity" alt="Typing SVG" />
 
 <p>
   <a href="https://dshan12.github.io">Portfolio</a> •
