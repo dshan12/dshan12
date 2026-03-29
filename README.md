@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # darshan@alpha:~$
@@ -127,4 +127,4 @@ methods        time-series | econometrics | backtesting | simulation
 -->
 
 ```
-```
+
