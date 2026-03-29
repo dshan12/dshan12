@@ -117,13 +117,4 @@ methods        time-series | econometrics | backtesting | simulation
 
 </div>
 
-<!-- Optional: stats section -->
-
-
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dshan12&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dshan12&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</div>
-
 
