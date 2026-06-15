@@ -7,8 +7,8 @@
 
 <p>
   <a href="https://dshan12.github.io">Portfolio</a> •
-  <a href="https://github.com/dshan12/Momentum-Research">Research</a> •
-  <a href="https://github.com/dshan12/quant-research">Trading Framework</a> •
+  <a href="https://github.com/dshan12/momentum-factor-study">Research</a> •
+  <a href="https://github.com/dshan12/systematic-trading-framework">Trading Framework</a> •
   <a href="mailto:darshansathishkumar@gmail.com">Contact</a>
 </p>
 
@@ -35,37 +35,38 @@ I care about:
 <table>
   <tr>
     <td width="50%">
-      <h3>📈 Momentum Research</h3>
+      <h3>📈 Momentum Factor Study</h3>
       <p>
-        Reconstructed a survivorship-bias-free S&amp;P 500 history, replicated the 12–1 momentum strategy,
-        modeled transaction costs, and ran CAPM / FF3 / FF5 + UMD regressions with Newey–West errors.
+        Fully reproducible replication of the 12–1 month cross-sectional momentum strategy in the S&amp;P 500
+        (2005–2024), with survivorship-bias-free data and realistic transaction costs.
       </p>
-      <p><a href="https://github.com/dshan12/Momentum-Research"><b>Open repo →</b></a></p>
+      <p><a href="https://github.com/dshan12/momentum-factor-study"><b>Open repo →</b></a></p>
     </td>
     <td width="50%">
       <h3>⚙️ Systematic Trading Framework</h3>
       <p>
-        Multi-strategy backtesting engine with automated runs, reproducible logs, and risk analytics
-        including Sharpe, drawdown, and validation workflows.
+        Modular algorithmic trading framework for live trading (Alpaca) and historical backtesting,
+        with automated performance reporting, SPY benchmarking, and reproducible trade logs.
       </p>
-      <p><a href="https://github.com/dshan12/quant-research"><b>Open repo →</b></a></p>
+      <p><a href="https://github.com/dshan12/systematic-trading-framework"><b>Open repo →</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🏥 ER Flow Dashboard</h3>
+      <h3>🛡️ NetGuard</h3>
       <p>
-        Event-driven hospital operations model built from real workflow observations,
-        designed to surface bottlenecks earlier than manual monitoring.
+        Real-time network attack detection platform with a 5-rule engine and a 3-model
+        ML ensemble (Isolation Forest, Autoencoder, K-Means) on a live React dashboard.
       </p>
-      <p><a href="https://github.com/dshan12/ER-Dashboard"><b>Open repo →</b></a></p>
+      <p><a href="https://github.com/dshan12/netguard"><b>Open repo →</b></a></p>
     </td>
     <td width="50%">
-      <h3>🌐 Portfolio</h3>
+      <h3>📊 Market Microstructure</h3>
       <p>
-        A central place for projects, research, background, and the bigger story behind what I build.
+        Empirical analysis of limit order book dynamics: order flow imbalance, return predictability,
+        signal decay, and market microstructure effects using Kraken spot data.
       </p>
-      <p><a href="https://dshan12.github.io"><b>Visit site →</b></a></p>
+      <p><a href="https://github.com/dshan12/Market-Microstructure"><b>Open repo →</b></a></p>
     </td>
   </tr>
 </table>
@@ -75,10 +76,10 @@ I care about:
 ## /research_log
 
 ```text
-[2026-03] studying factor behavior under crash/reversal regimes
+[2026-06] building netguard — full-stack IDS with ML ensemble detection
+[2026-05] limit order book microstructure analysis on Kraken spot data
+[2026-04] published momentum-factor-study with reproducible pipeline and LaTeX paper
 [2026-03] improving turnover-aware backtesting assumptions
-[2026-02] refining reproducible research workflows and reporting
-[2026-02] exploring security as a systems-level complement to quant infrastructure
 ````
 
 ---
@@ -86,20 +87,20 @@ I care about:
 ## /stack
 
 ```text
-languages      python | r | html/css
-libraries      pandas | numpy | matplotlib | statsmodels
-tools          git | github actions | alpaca api | excel
-methods        time-series | econometrics | backtesting | simulation
+languages      python | typescript | r | lua
+libraries      pandas | numpy | scikit-learn | statsmodels | fastapi
+tools          docker | postgresql | redis | alpaca api | github actions
+methods        time-series | econometrics | ml ensemble | backtesting | simulation
 ```
 
 ---
 
 ## /signal
 
-* published quantitative research
-* built reproducible backtesting pipelines from scratch
-* interested in alpha research, market structure, and robust systems
-* exploring cybersecurity through a systems-and-infrastructure lens
+* published quantitative research with full reproducibility
+* built a full-stack IDS with multi-model ML detection
+* interested in alpha research, market microstructure, and robust systems
+* building at the intersection of quant finance and cybersecurity infrastructure
 
 ---
 
@@ -107,6 +108,7 @@ methods        time-series | econometrics | backtesting | simulation
 
 * Portfolio: https://dshan12.github.io
 * GitHub: https://github.com/dshan12
+* LinkedIn: https://www.linkedin.com/in/darshansathishkumar/
 * Email: [darshansathishkumar@gmail.com](mailto:darshansathishkumar@gmail.com)
 
 ---
